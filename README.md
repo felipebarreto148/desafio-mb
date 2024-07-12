@@ -18,6 +18,12 @@
 
 </main>
 
+<h2>Pré Requisitos</h2>
+<p>
+  Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+  <a href="https://www.docker.com/" target="_blank">Docker</a> e <a href="https://nodejs.org/pt/" target="_blank">Node.js</a>.
+</p>
+
 <h2>🛠 Tecnologias</h2>
 <section>
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="badge Vue JS">
@@ -53,9 +59,13 @@ cd desafio-mb-front
 
 # Instale as dependências do front
 yarn install
+ou
+npm install
 
 # Rode o frontend
 yarn dev
+ou 
+npm run dev
 
 # Abra um novo terminal e acesse o backend
 cd desafio-mb-back
