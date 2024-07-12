@@ -1,4 +1,4 @@
-<main align="center">
+<div align="center">
 
   <img 
     height="180"
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=ef4723&style=for-the-badge"/>
   </section>
 
-</main>
+</div>
 
 <h2>Pré Requisitos</h2>
 <p>
