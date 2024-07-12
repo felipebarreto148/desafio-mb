@@ -20,10 +20,12 @@
 
 <h2>🛠 Tecnologias</h2>
 <section>
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="badge Vue JS">
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="badge Vue JS">
 	<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="badge Javascript">
 	<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="badge Sass">
   <img src="https://img.shields.io/static/v1?label=Express&message=Backend&color=ef4723&style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </section>
 
 <h2>Como Rodar?</h2>
